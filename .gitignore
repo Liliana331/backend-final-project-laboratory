@@ -1,0 +1,6 @@
+*.pdf
+Notas.txt
+/FinalLab/nbproject/private/
+/FinalLab/build/
+/CatalogoPeliculas/nbproject/private/
+/CatalogoPeliculas/build/
